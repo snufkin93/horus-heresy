@@ -6881,7 +6881,7 @@ has the Large Blast.</description>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <costs>
-                <cost name="pts" typeId="points" value="0.0"/>
+                <cost name="pts" typeId="points" value="30.0"/>
               </costs>
             </selectionEntry>
             <selectionEntry id="73c7-1586-ead7-6fe7" name="Guardian Officer Skyrunner" hidden="false" collective="false" import="true" type="upgrade">
@@ -7041,7 +7041,7 @@ has the Large Blast.</description>
                 </entryLink>
               </entryLinks>
               <costs>
-                <cost name="pts" typeId="points" value="0.0"/>
+                <cost name="pts" typeId="points" value="45.0"/>
               </costs>
             </selectionEntry>
           </selectionEntries>
